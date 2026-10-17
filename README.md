@@ -9,6 +9,12 @@ workflow**.
 
 ---
 
+<table>
+  <tr>
+    <td><img src = "https://github.com/abhishek-Jain24/AI-Resume-Analyzer/blob/325ca9aa07873f2fb8f5a6bcb6433005559b1d4d/Screenshot%202026-10-17%20123600.png" width="250" /></td
+  </tr>
+</table>
+
 ## 1. What are we building?
 
 A single-page web app.
